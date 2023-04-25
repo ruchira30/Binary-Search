@@ -46,3 +46,4 @@ int Binarysearch(int x, int lower, int upper, int arr[])
     }
     return -1;
 }
+
